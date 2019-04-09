@@ -8,7 +8,7 @@
 
 [Feynman R. Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf)
 
-## Про шифрование
+## Про шифрование:
 
 [Алгоритм Шора от автора](https://arxiv.org/pdf/quant-ph/9508027.pdf)
 
