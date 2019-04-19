@@ -2,6 +2,8 @@
 Полезные ссылки для тех, кого заинтересовала тема.
 ## Для начала:
 
+[Карточный трюк](http://research.ibm.com/ibm-q/quantum-card-test)
+
 [Основы квантовых вычислений](http://booksee.org/book/687014)
 
 [Coursera - квантовые вычисления](https://www.coursera.org/learn/kvantovyye-vychisleniya)
